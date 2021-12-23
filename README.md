@@ -1,14 +1,5 @@
-### Hello World 👋
-I am a Go software engineer
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
-<br>
-## Connect with me
-[<img align="left" alt="google" src="https://img.shields.io/badge/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR?style=for-the-badge&logo=appveyor" />](https://www.google.com)
+<h1 align="left">Hello World👋</h1>
 
-<br>
-<br>
-## Expertise
+- 💻 Core Stack: **Go**. Mainly focused on Backend & DevOps.
 
-<br>
-<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eminshakh&show_icons=true&hide_title=true" alt="eminshakh" /></p>
